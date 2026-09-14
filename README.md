@@ -4,6 +4,10 @@
 
 **Живая версия:** https://baibakova2005-art.github.io/demo-psiholog/
 
+![Первый экран](screenshots/oblozhka.jpg)
+
+Полные снимки страницы: [компьютер](screenshots/kompyuter.jpg) · [телефон 360 px](screenshots/telefon.jpg)
+
 Помогаю справиться с тревогой и выгоранием. Когнитивно-поведенческий подход, первая встреча 20 минут бесплатно.
 
 ## Стек
