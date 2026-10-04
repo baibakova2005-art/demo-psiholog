@@ -162,8 +162,11 @@ export default function App() {
         <section>
           <div className="mx-auto grid max-w-6xl items-center gap-12 px-5 pb-16 pt-12 md:grid-cols-[1.2fr_0.8fr] md:pb-24 md:pt-20">
             <div>
-              <p className="mb-5 text-sm font-semibold uppercase tracking-[0.12em] text-accent-text">
-                Психолог · онлайн и очно в Москве
+              <p className="mb-5 text-xs font-semibold uppercase tracking-[0.12em] text-accent-text sm:text-sm">
+                <span className="sm:hidden">Психолог · онлайн и в Москве</span>
+                <span className="hidden sm:inline">
+                  Психолог · онлайн и очно в Москве
+                </span>
               </p>
               <h1 className="font-display text-[clamp(2.2rem,1.3rem+3.6vw,3.9rem)] font-bold leading-[1.08] tracking-[-0.01em]">
                 Помогу справиться с тревогой и выгоранием, чтобы снова появились
